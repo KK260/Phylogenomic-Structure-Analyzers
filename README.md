@@ -18,4 +18,6 @@ These are exemplary scripts to perform this kind of analysis, and you have to ad
 We hope that these exemplary script were useful for you to calculate phylogenetic networks and SNiPloid analyses. You can use alignments provided on Figshare (e.g., RADseq *ustr and converted files, https://doi.org/10.6084/m9.figshare.13352429) for exemplary runs. Please do not hesitate to contact me if you have improvement suggestions.
 
 
+
+
 If you use the code, please cite: Karbstein K, Tomasello S, Hodač L, Wagner N, Marincek P, Barke BH, Pätzold C, Hörandl E. Untying Gordian knots: Unraveling reticulate polyploid evolution by RRS genomic data using the large Ranunculus auricomus species complex. New Phytologist, 2022; 235; 2081-2098. https://doi.org/10.1111/nph.18284
