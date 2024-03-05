@@ -6,7 +6,7 @@ This code repository includes custom R, JULIA, and BASH scripts used in Karbstei
 
 These are exemplary scripts, and you have to adjust the local directory paths to your system or install the required packages. 
 
-1) 'Stacey_2_e9.xml'. This xml file is used for our STACEY analyses. Please see the publication for more details.
+1) 'Stacey_2_e9.xml'. This xml file is used for STACEY analyses. Please see the publication for more details.
 
 2) 'converting_ustr_to_txt_for_SNPstoCF_function.R'. This R function is required to convert RADseq *ustr IPYRAD output files into appropriate input files for SNPstoCF.R function vers. 1.2 (see Olave et al., 2020, doi: 10.1093/sysbio/syaa005, github: https://github.com/melisaolave/SNPs2CF). We used the R vers. 4.0.3 for running the script on Windows/Mac OS. Simply edit the R script, and run the code. After conversion, the file may need some additional manual editing.
 
