@@ -4,7 +4,7 @@ Custom scripts for phylogenetic network and SNiPloid analyses in taxonomically c
 
 This code repository includes custom R, JULIA, and BASH scripts used in Karbstein et al. 2022 (https://onlinelibrary.wiley.com/doi/10.1111/nph.18284) to calculate species delimitation analyses (STACEY), phylogenetic networks among sexual progenitor species and polyploid apomictic derivates, and to infer genome evolution of allopolyploids with SNiPloid, based on different datasets (RADseq, target enrichment). 
 
-These are exemplary scripts, and you have to adjust the local directory paths to your system or install the required packages. 
+These are exemplary scripts, and you have to adjust the local directory paths to your system or install the required packages. Most of the datasets used are available on Figshare (https://10.6084/m9.figshare.14046305).
 
 1) 'Stacey_2_e9.xml'. This xml file is used for STACEY analyses. Please see the publication for more details.
 
